@@ -18,3 +18,5 @@ These data are from the 2nd experiment reported in Speech Prosody paper: Beware 
 * tapwrong.txt List of stimulus/listener combinations that had correct number of taps
 * wordinfo_manual.csv Lexical information about words and syllables 
 * GECO_stimuli_overview.csv  Contextual info and info about presence of hesitations for each stimulus
+
+NB file with SUBTLEX word frequency data is taken directly from here: http://crr.ugent.be/SUBTLEX-DE/SUBTLEX-DE_txt_cleaned_with_Google00.zip
