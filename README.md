@@ -7,11 +7,11 @@ These data are from the 2nd experiment reported in Speech Prosody paper: Beware 
 * Data collection & preparation: Leonie Schade, Anna Bruggeman
 * Statistical Analysis: Anna Bruggeman
 
-Script files:
-* 1_tap_vs_RPT.R Compares the tapping data with the RPT binary judgments. 
-* 2_RFanalysis.R Computes random forests and visualises variable importances. Starts with preprocessing of acoustic data.
+# Script files:
+* 1_tap_vs_RPT.R Compares the tapping data with the RPT binary judgments. 
+* 2_RFanalysis.R Computes random forests and visualises variable importances. Starts with preprocessing of acoustic data.
 
-Data files:
+# Data files:
 * extracted_acoustic.csv Contains acoustic data (Praat extracted) for each syllable in each stimulus
 * pveloc.csv Contains tap duration and force data, binary RPT prom ratings, and pitch accentuation
 * tapcorrect.txt List of stimulus/listener combinations that had correct number of taps
